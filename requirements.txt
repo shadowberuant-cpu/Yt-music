@@ -1,0 +1,4 @@
+pytubefix
+simplejson
+tk
+threading
